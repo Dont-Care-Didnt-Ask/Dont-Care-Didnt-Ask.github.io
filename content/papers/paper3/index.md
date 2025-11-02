@@ -2,6 +2,7 @@
 title: "Your Inner Hedgehog" 
 date: 2021-04-06
 lastmod: 2024-10-18
+draft: true
 tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
 author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
 description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
