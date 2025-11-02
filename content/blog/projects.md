@@ -2,8 +2,8 @@
 title: "Project ideas"
 date: 2025-11-02
 draft: false
-description: "A post enumerating some of my project ideas, which I did not implement yet."
-summary: "A post enumerating some of my project ideas, which I did not implement yet."
+description: "Some of my project ideas, which I did not implement yet."
+summary: "Some of my project ideas, which I did not implement yet."
 tags: ["research"]
 ---
 

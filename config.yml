@@ -22,9 +22,9 @@ menu:
         # - name: Data
         #   url: data/
         #   weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+        - name: Blog
+          url: blog/
+          weight: 6
 
 params:
     description: "I am a PhD student at Skoltech and a DL researcher at AIRI. My research focuses on generalization and robustness in NLP."
@@ -43,7 +43,7 @@ params:
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     # MainSections: ["books","courses","papers","data"]
-    MainSections: ["papers"]
+    MainSections: ["papers", "blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
