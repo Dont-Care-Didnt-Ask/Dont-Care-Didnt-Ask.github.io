@@ -1,7 +1,7 @@
 ---
 title: "Obfuscated Activations Bypass LLM Latent-Space Defenses" 
-date: 2021-04-06
-lastmod: 2024-10-18
+date: 2024-12-12
+lastmod: 2025-02-08
 tags: ["research","robustness","adversarial"]
 author: ["Luke Bailey", "Alex Serrano", "Abhay Sheshadri", "Mikhail Seleznyov", "Jordan Taylor", "Erik Jenner", "Jacob Hilton", "Stephen Casper", "Carlos Guestrin", "Scott Emmons"]
 description: "This paper introduces obfucated activations phenomenon, which poses a significant challenge for monitors/detectors relying on LLMs latent space." 
@@ -10,9 +10,6 @@ cover:
     image: "obfact.png"
     alt: "Obfuscation attacks achieve a high degree of control over how a harmfulness monitor classifies activations while also controlling model outputs."
     relative: false
-# editPost:
-#     URL: "https://github.com/pmichaillat/hugo-website"
-#     Text: "Journal of Socio-Experimental Psychology"
 
 ---
 
@@ -21,7 +18,6 @@ cover:
 ##### Download
 
 + [Paper](https://arxiv.org/abs/2412.09565)
-<!-- + [Raw data](https://github.com/pmichaillat/recession-indicator) -->
 
 ---
 
