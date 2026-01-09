@@ -1,3 +1,13 @@
+---
+title: "Critique of machine unlearning"
+date: 2026-01-09
+draft: false
+description: ""
+summary: ""
+tags: ["research"]
+---
+
+
 # Machine Unlearning
 
 [Wikipedia](https://en.wikipedia.org/wiki/Machine_unlearning) (as of January 2026): 
