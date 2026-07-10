@@ -54,15 +54,15 @@ params:
     profileMode:
           enabled: true
           title: Mikhail Seleznyov
-          subtitle: "I am a PhD student and a DL researcher at Applied NLP Group. My research focuses on generalization and robustness in NLP."
+          subtitle: "I am a PhD student and a DL researcher at Applied NLP Group. I am interested in AI Safety, adversarial and non-adversarial robustness of LLMs, and uncertainty quantification."
           imageUrl: "mike_square.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: https://scholar.google.com/citations?user=zHaNRJIAAAAJ&hl=en
             - name: Resume
               url: cv.pdf
+            - name: Papers
+              url: https://scholar.google.com/citations?user=zHaNRJIAAAAJ&hl=en
             # - name: Courses
             #   url: courses/
             # - name: Data
