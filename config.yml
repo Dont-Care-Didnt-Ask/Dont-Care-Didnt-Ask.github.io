@@ -61,6 +61,8 @@ params:
           buttons:
             - name: Papers
               url: https://scholar.google.com/citations?user=zHaNRJIAAAAJ&hl=en
+            - name: Resume
+              url: cv.pdf
             # - name: Courses
             #   url: courses/
             # - name: Data
